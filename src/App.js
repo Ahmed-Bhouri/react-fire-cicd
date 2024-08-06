@@ -9,9 +9,9 @@ function App() {
         <p>
           Hello World!
         </p>
-        <a className="App-link">
+        <p className="App-link">
           We Added CI/CD!
-        </a>
+        </p>
       </header>
     </div>
   );
