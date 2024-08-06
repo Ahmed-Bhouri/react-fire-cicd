@@ -9,10 +9,10 @@ function App() {
         <p>
           Hello World!
         </p>
-        <p className="App-link">
+        <p data-testid="cicd" className="App-link">
           We Added CI/CD!
         </p>
-        <p className="App-link">
+        <p data-testid="nf" className="App-link">
           Added New Feature ⭐!
         </p>
       </header>
